@@ -5,3 +5,6 @@
 * радость :smiley:
 * гнев :rage:
 * счастье 
+* энтузиазм
+* умиротворение
+![картинка](https://media.proglib.io/wp-uploads/2018/04/python-acc9c68ff62d73618344379ce3e645c9.png)

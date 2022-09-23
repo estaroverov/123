@@ -12,3 +12,6 @@
 
 [![спокойная музыка](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mount._Mkinvarcveri_%28Kazbek%29_5033_m.%2C_Stefancminda_district.jpg/420px-Mount._Mkinvarcveri_%28Kazbek%29_5033_m.%2C_Stefancminda_district.jpg)](https://www.youtube.com/watch?v=S7U8ExhCK50
 )
+
+<hr>
+Я пошел гулять
